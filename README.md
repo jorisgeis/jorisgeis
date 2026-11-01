@@ -1,12 +1,13 @@
 <h1 align="center">Joris Geis</h1>
 
 <p align="center">
-  <strong>Business Informatics student · Full-stack web development</strong><br />
-  Oldenburg, Germany
+  <strong>Full-stack software engineer · Information Systems student</strong><br />
+  Zetel, Germany
 </p>
 
 <p align="center">
   <a href="https://jorisgeis.de">Portfolio</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/jorisgeis">LinkedIn</a> &nbsp;·&nbsp;
   <a href="mailto:geis.joris@gmail.com">Email</a> &nbsp;·&nbsp;
   <a href="https://github.com/jorisgeis?tab=repositories">Repositories</a>
 </p>
@@ -15,9 +16,33 @@
 
 ## About
 
-I'm studying **Business Informatics (B.Sc.) at Hochschule Emden/Leer**, a German university of applied sciences. Before starting my degree, I worked on full-stack product development at Groupera and frontend development at buildnext.
+I'm a full-stack software engineer with **2+ years of hands-on experience** building web applications with React, Next.js, TypeScript, and Node.js. Since March 2026, I've been pursuing a **B.S. in Information Systems (Wirtschaftsinformatik) at Hochschule Emden/Leer – University of Applied Sciences**.
 
-My work so far includes web interfaces, a gamified attendance system, and a searchable static database. Below are two projects you can explore live and in source.
+My experience includes a **12-month full-time internship** and part-time engineering roles in fully remote teams. I focus on user-centric products and integrating AI/LLM capabilities into existing applications.
+
+## Experience
+
+**arztkonsultation ak GmbH · Full-Stack Developer (Part-time, Working Student)**  
+September 2026 – Present · Remote, Germany
+
+Develop frontend and backend features for a **certified, end-to-end encrypted telehealth video consultation platform** used by medical practices, outpatient care centers, and hospitals. Collaborate with the engineering team in a privacy-critical, highly regulated healthcare domain.
+
+**Nova Digital Group GmbH · Full-Stack Developer (Part-time, Working Student)**  
+March 2026 – September 2026 · Remote, Bremen, Germany
+
+Developed web applications across frontend and backend while enrolled as a full-time university student.
+
+**Groupera · Software Engineering Intern, Full-Stack (Full-time)**  
+November 2024 – November 2025 · Remote, Berlin, Germany
+
+- Designed and built a **streak-based gamification system that reduced user churn by 10%** on a platform serving **500+ users**.
+- Developed frontend features with Next.js, TypeScript, and Tailwind CSS; built Node.js backend features, integrated REST APIs, and designed MongoDB/Mongoose data models.
+- Worked with Docker and Git-based workflows, with regular code reviews and close collaboration with senior engineers.
+
+**buildnext GmbH · Frontend Developer (Part-time, during high school)**  
+January 2023 – October 2023 · Remote, Oldenburg, Germany
+
+Built responsive interfaces and interactive components with React, Next.js, and Tailwind CSS, translating client requirements into frontend features.
 
 ## Selected work
 
@@ -44,19 +69,11 @@ My work so far includes web interfaces, a gamified attendance system, and a sear
   </tr>
 </table>
 
-## Experience
-
-**Groupera · Full-stack Developer Intern**  
-November 2024 – November 2025
-
-Built a gamified streak system for weekly group-call attendance, including freeze-token logic, progression, and UI animations. Worked with Next.js, TypeScript, Node.js, and MongoDB.
-
-**buildnext GmbH · Junior Web Developer**  
-January 2023 – October 2023
-
-Developed responsive frontends with React and Tailwind CSS.
-
 ## Toolkit
 
 **Frontend** &nbsp; `TypeScript` `JavaScript` `React` `Next.js` `Astro` `Tailwind CSS`  
-**Backend & workflow** &nbsp; `Node.js` `MongoDB` `REST APIs` `Git`
+**Backend & data** &nbsp; `Node.js` `REST APIs` `MongoDB` `Mongoose` `Docker`  
+**AI / LLM** &nbsp; `OpenAI & LLM API integration` `Prompt engineering` `AI-assisted development`  
+**Workflow** &nbsp; `Git` `Agile/Scrum` `Code reviews` `Remote collaboration`
+
+**Spoken languages** &nbsp; German (native) · English (fluent)
