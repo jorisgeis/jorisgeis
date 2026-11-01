@@ -58,13 +58,13 @@ Built responsive interfaces and interactive components with React, Next.js, and 
       <p><a href="https://jorisgeis.github.io/peptidebay/">Live site ↗</a> &nbsp;·&nbsp; <a href="https://github.com/jorisgeis/peptidebay">Source</a></p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://jorisgeis.de">
-        <img src="assets/portfolio.jpg" width="480" alt="Portfolio preview: a dark starfield background, large typography, and German/English language controls" />
+      <a href="https://github.com/jorisgeis/joris-terminal">
+        <img src="assets/joris-terminal.png" width="480" alt="joris-terminal preview: a dark terminal-style portfolio with a summary card, red ASCII lettering, and a command-line input" />
       </a>
-      <h3>Personal portfolio</h3>
-      <p>A bilingual German/English portfolio presenting my experience and projects, with responsive layouts and animated visuals.</p>
-      <p><code>React</code> <code>TypeScript</code> <code>Tailwind CSS</code></p>
-      <p><a href="https://jorisgeis.de">Live site ↗</a> &nbsp;·&nbsp; <a href="https://github.com/jorisgeis/portfolio">Source</a></p>
+      <h3>joris-terminal</h3>
+      <p>A terminal-style portfolio with a skimmable summary card, slash commands, and prewritten answers matched locally in the browser. No LLM backend.</p>
+      <p><code>React</code> <code>TypeScript</code> <code>Vite</code></p>
+      <p><a href="https://github.com/jorisgeis/joris-terminal/blob/main/docs/screenshot-desktop.png">Preview ↗</a> &nbsp;·&nbsp; <a href="https://github.com/jorisgeis/joris-terminal">Source</a></p>
     </td>
   </tr>
 </table>
